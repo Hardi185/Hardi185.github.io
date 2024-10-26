@@ -6,7 +6,9 @@ A Software Engineer on a mission to transform complex challenges into smooth, ef
 💡 About Me:
 
 I’m a lifelong learner, diving into HackerRank and LeetCode to keep my problem-solving on point and my mind sharp. 🧠
+
 Data visualization and UI/UX optimization are my sweet spots — I love making data intuitive with tools like Highcharts and AG-Grid to create effortless user experiences. 🎨📊
+
 I’m currently exploring full-stack development in-depth and excited about contributing to open-source projects while expanding my tech stack.
 
 🌐 Let’s Connect: Tech discussions, collaboration, or just sharing ideas — I’m always open! Reach out right here on GitHub.
