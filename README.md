@@ -1,5 +1,6 @@
 # 👋 Hey there! It's Hardi
-A Software Engineer on a mission to transform complex challenges into smooth, efficient solutions. My toolkit? It’s loaded with front-end magic (hello, Angular) and back-end power (Java and .NET, though I’m flexible and quick to adapt to new tech). With a strong foundation in database expertise, I’m all about keeping things running seamlessly and scaling them to new heights. 🚀
+                                           Versatile Developer | Full Stack | Web | High impact solution
+A Software Engineer on a mission to transform complex challenges into smooth, efficient solutions.
 
 📚 What I Do:
 
